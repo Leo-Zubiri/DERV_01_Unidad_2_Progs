@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e71c4c9ce350e8498342b39a19a7fa4, type: 3}
+  m_Name: Dialogo_Introduccion
+  m_EditorClassIdentifier: 
+  mensaje:
+  - personaje: {fileID: 11400000, guid: fd027045f9dc06e459dbc0fad52511ba, type: 2}
+    dialogos: <i><b>Ese mi pana :v</b></i>
+  - personaje: {fileID: 11400000, guid: 593710254127c3543b7ea2f5757782fe, type: 2}
+    dialogos: "\xC9l es el enemigo"
+  - personaje: {fileID: 11400000, guid: 593710254127c3543b7ea2f5757782fe, type: 2}
+    dialogos: "\xC9l es el enemigo"
+  - personaje: {fileID: 11400000, guid: 593710254127c3543b7ea2f5757782fe, type: 2}
+    dialogos: "\xC9l es el enemigo"
+  - personaje: {fileID: 11400000, guid: 593710254127c3543b7ea2f5757782fe, type: 2}
+    dialogos: "\xC9l es el enemigo"
+  - personaje: {fileID: 11400000, guid: 593710254127c3543b7ea2f5757782fe, type: 2}
+    dialogos: "\xC9l es el enemigo"
+  - personaje: {fileID: 11400000, guid: 593710254127c3543b7ea2f5757782fe, type: 2}
+    dialogos: "\xC9l es el enemigo"
